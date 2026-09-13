@@ -1,6 +1,6 @@
 # 荷包日记 · 手机安装与「付完就记」设置教程
 
-线上地址：**https://shitianxin7-alt.github.io/wallet-diary/**
+线上地址：**https://shitianxin7-alt.github.io/hebao-diary/**
 
 ---
 
@@ -27,7 +27,7 @@
 3. 再「添加操作」→ 搜索「**URL**」，内容填：
 
    ```
-   https://shitianxin7-alt.github.io/wallet-diary/?amt=提供的输入&auto=1
+   https://shitianxin7-alt.github.io/hebao-diary/?amt=提供的输入&auto=1
    ```
 
    （`amt=` 后面不要手打——在键盘上方点「提供的输入」变量插入）
@@ -49,7 +49,7 @@ Android 没有「快捷指令」，两个替代方案：
 
 - **简单**：主屏幕点「荷包日记」图标 → 记一笔（也就 3 秒）
 - **进阶**：用 Tasker、MacroDroid 等自动化工具调用同样的链接
-  `https://shitianxin7-alt.github.io/wallet-diary/?amt=金额&auto=1`
+  `https://shitianxin7-alt.github.io/hebao-diary/?amt=金额&auto=1`
   可实现侧边栏手势唤起记账
 
 > 完全自动识别支付宝/微信付款金额，需要能读通知栏的原生 App，
